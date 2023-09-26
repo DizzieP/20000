@@ -27,7 +27,7 @@ html {
   nav {
     position: fixed;
     z-index: 5;
-    left: -17.8em;
+    left: -20em;
     display: flex;
     align-items: center;
     height: 100%;
